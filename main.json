@@ -9,7 +9,7 @@
         "access_key": "{{user `aws_access_key`}}",
         "secret_key": "{{user `aws_secret_key`}}",
         "region": "us-east-1",
-        "source_ami": "ami-053b0d53c279acc90",
+        "source_ami": "ami-0261755bbcb8c4a84",
         "instance_type": "t2.micro",
         "ssh_username": "ubuntu",
         "ami_name": "qtphpinfo"
